@@ -36,7 +36,9 @@ Certifique-se de ter as seguintes ferramentas instaladas em sua máquina:
 
 Você pode executar os testes a partir da linha de comando usando o Maven:
 
-Não se esqueça de ter o EdgeDriver e o Edge instalados(O EdgeDriver precisa estar no PATH)
+Não se esqueça de ter o EdgeDriver e o Edge instalados(O EdgeDriver precisa estar no PATH de variáveis de ambiente e de usuário. )
+
+
 
 ## Contribuição
 
