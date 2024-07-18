@@ -1,0 +1,5 @@
+#Ignorar a pasta "imagens"
+
+imagens/
+target/
+.settings/
