@@ -3,3 +3,4 @@
 imagens/
 target/
 .settings/
+*.xml
