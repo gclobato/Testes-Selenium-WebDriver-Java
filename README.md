@@ -1,9 +1,9 @@
-# Testes-Selenium-WebDriver-Java
+# Testes-Selenium-WebDriver-Java.
 
 Este é um projeto de automação de testes usando Java, Selenium WebDriver, JUnit e Maven. O projeto é destinado a automação de testes web e demonstra boas práticas e estruturação de um projeto de automação de testes.
 https://seubarriga.wcaquino.me/
 
-## Requisitos
+## Requisitos.
 
 Certifique-se de ter as seguintes ferramentas instaladas em sua máquina:
 
